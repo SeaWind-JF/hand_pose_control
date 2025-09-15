@@ -1,4 +1,4 @@
-# hand_posecontrol
+# hand_pose_control
 通过手势与动作识别实现cyberdog的控制
 
 ## 依赖下载
